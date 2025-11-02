@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nico Cava</h1> 
-
-<h3 align="center">A passionate junior full-stack developer</h3> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nic0cava&label=Profile%20views&color=0e75b6&style=flat" alt="nic0cava" /> </p> - 📫 How to reach me **nmcava01@gmail.com** 
-
-<h3 align="left">Connect with me:</h3> 
-<p align="left"> <a href="https://www.linkedin.com/in/nicolascava01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas cava" height="30" width="40" /></a> </p> 
 
 <!-- Hero -->
 <h1 align="center">Hi <span title="wave">👋</span>, I'm <b>Nico Cava</b></h1>
@@ -28,7 +20,7 @@
 
 <!-- One-liner -->
 <p align="center">
-  I build practical tools and clean UIs — Python/Flask backends, PostgreSQL, and clean frontends.
+  I build practical tools and creative projects for fun — always learning, experimenting, and challenging myself to push further. 💡🚀
 </p>
 
 <!-- Contact Buttons -->
