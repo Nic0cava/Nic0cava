@@ -14,3 +14,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nic0cava&" alt="nic0cava" /></p>
 
 ![Nic0cava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nic0cava&show_icons=true&theme=radical)
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nic0cava&show_icons=true&theme=radical" alt="Nico's GitHub stats" height="160"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0cava&hide=Jupyter%20Notebook&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nic0cava&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
