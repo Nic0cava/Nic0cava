@@ -53,9 +53,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pgadmin/pgadmin-original.svg" alt="pgAdmin" width="45" height="45"/>
-    <img src="https://www.pgadmin.org/static/docs/pgadmin4.png" alt="pgAdmin" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="pgAdmin (PostgreSQL)" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="pgAdmin (PostgreSQL)" width="45" height="45"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
