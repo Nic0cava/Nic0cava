@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nic0cava&show_icons=true&theme=radical" alt="Nico's GitHub stats" height="160"/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0cava&hide=Jupyter%20Notebook&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0cava&hide=Jupyter%20Notebook, TypeScript&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nic0cava&theme=radical" alt="GitHub Streak" height="160"/>
