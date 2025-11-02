@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nic0cava&" alt="nic0cava" /></p>
 
-![Nic0cava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nic0cava&show_icons=true&theme=synthwave)
+![Nic0cava's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nic0cava&show_icons=true&theme=tokyonight)
