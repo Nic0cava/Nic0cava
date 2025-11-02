@@ -28,7 +28,7 @@
 
 <!-- One-liner -->
 <p align="center">
-  I build practical tools and clean UIs — Flask backends, PostgreSQL, and React frontends.
+  I build practical tools and clean UIs — Python/Flask backends, PostgreSQL, and clean frontends.
 </p>
 
 <!-- Contact Buttons -->
