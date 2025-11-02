@@ -7,6 +7,41 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> <a href="https://www.linkedin.com/in/nicolascava01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas cava" height="30" width="40" /></a> </p> 
 
+<!-- Hero -->
+<h1 align="center">Hi <span title="wave">👋</span>, I'm <b>Nico Cava</b></h1>
+<h3 align="center">Junior Full-Stack Developer • Python / Flask / Postgres</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="320" height="3" alt="gradient divider">
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nic0cava&label=Profile%20Views&color=ff4d4d&style=flat" alt="Profile views"/>
+  <a href="https://github.com/Nic0cava?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nic0cava?label=Followers&style=flat&color=ff6ad5" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Nic0cava">
+    <img src="https://img.shields.io/github/stars/Nic0cava?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=7a5cff" alt="GitHub stars"/>
+  </a>
+</p>
+
+<!-- One-liner -->
+<p align="center">
+  I build practical tools and clean UIs — Flask backends, PostgreSQL, and React frontends.
+</p>
+
+<!-- Contact Buttons -->
+<p align="center">
+  <a href="mailto:nmcava01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nmcava01%40gmail.com-ff6ad5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nicolascava01/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nico%20Cava-7a5cff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
 
 <h3 align="center">🛠️ Languages & Tools</h3>
 
