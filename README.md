@@ -20,7 +20,7 @@
 
 <!-- One-liner -->
 <p align="center">
-  I’m a <b>Data Science & Artificial Intelligence student</b> passionate about building <b>data-driven applications</b> and <b>production-ready systems</b>. I enjoy turning real-world problems into scalable solutions using data, automation, and clean engineering practices. 📊🤖
+  I’m a <b>Data Science & Artificial Intelligence student at FIU</b> passionate about building <b>data-driven applications</b> and <b>production-ready systems</b>. I enjoy turning real-world problems into scalable solutions using data, automation, and clean engineering practices. 📊🤖
 </p>
 
 <!-- Contact Buttons -->
@@ -39,8 +39,8 @@
 <h3 align="center">📌 About Me</h3>
 
 <p align="center">
-  🎓 B.S. in <b>Data Science & Artificial Intelligence</b> (in progress) <br/>
-  🧠 Interested in <b>machine learning, analytics, automation, and applied AI</b> <br/>
+  🎓 B.S. in <b>Data Science & Artificial Intelligence</b> (in progress at FIU) <br/>
+  🧠 Interested in <b>software engineering, analytics, automation, and applied AI</b> <br/>
   🛠️ Experienced building <b>production systems</b> used by real businesses <br/>
   📈 Focused on learning how data drives smarter decision-making
 </p>
