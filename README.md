@@ -1,7 +1,6 @@
-
 <!-- Hero -->
 <h1 align="center">Hi <span title="wave">👋</span>, I'm <b>Nico Cava</b></h1>
-<h3 align="center">Data Science & AI Student • Python • Data-Driven Engineering</h3>
+<h3 align="center">Data Science & AI Student • Python & Applied AI</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="320" height="3" alt="gradient divider">
@@ -20,7 +19,7 @@
 
 <!-- One-liner -->
 <p align="center">
-  I’m a <b>Data Science & Artificial Intelligence student at FIU</b> passionate about building <b>data-driven applications</b> and <b>production-ready systems</b>. I enjoy turning real-world problems into scalable solutions using data, automation, and clean engineering practices. 📊🤖
+  I’m a <b>Data Science & Artificial Intelligence student at FIU</b> and an <b>AI Coach at Space of Mind</b>. I help people use AI thoughtfully, build useful automations, and develop Python applications that solve real operational problems. 🤖
 </p>
 
 <!-- Contact Buttons -->
@@ -39,10 +38,11 @@
 <h3 align="center">📌 About Me</h3>
 
 <p align="center">
-  🎓 B.S. in <b>Data Science & Artificial Intelligence</b> (in progress at FIU) <br/>
-  🧠 Interested in <b>software engineering, analytics, automation, and applied AI</b> <br/>
-  🛠️ Experienced building <b>production systems</b> used by real businesses <br/>
-  📈 Focused on learning how data drives smarter decision-making
+  🎓 Studying <b>Data Science & Artificial Intelligence</b> at FIU <br/>
+  🤖 AI Intern at <b>Space of Mind</b>, teaching AI literacy and building Google Workspace automations <br/>
+  🛠️ Built a <b>Flask and PostgreSQL inventory app</b> used at Funky Buddha Brewery <br/>
+  🎮 Teach coding and computational thinking through <b>Scratch</b> <br/>
+  🚀 Working toward a career in <b>AI engineering</b>
 </p>
 
 <hr/>
@@ -67,9 +67,14 @@
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" style="filter: invert(1)"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/> </a> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  </a>
 </p>
+
 <p align="center">
   <!-- Dev & Deployment -->
   <a href="https://git-scm.com/" target="_blank">
