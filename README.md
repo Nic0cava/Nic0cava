@@ -66,43 +66,6 @@ I believe technology should **amplify human capabilities, not replace the thinki
 
 ---
 
-<!-- Featured Projects -->
-<h3 align="center">🚀 Featured Projects</h3>
-
-### 🎓 Canvas Wrapped | ShellHacks 2026
-
-**JavaScript • Browser Extension • Canvas LMS API**
-
-Collaborated with a team to build an interactive browser extension that helps students better understand their academic performance.
-
-- Visualizes grades, assignments, deadlines, and academic trends.
-- Includes an **AI learning-plan prompt** for personalized recommendations.
-- Prioritizes privacy through client-side processing and local storage.
-- Built collaboratively under hackathon deadlines.
-
-### 📅 AI-Powered Scheduling Automation
-
-**ChatGPT Plugins • Google Sheets API • Google Calendar API • Google Apps Script**
-
-Developed an organization-managed scheduling solution for Space of Mind.
-
-- Automated Google Calendar event creation and management.
-- Implemented full **CRUD capabilities** for calendar events.
-- Added validation for missing invitations, duplicates, and scheduling conflicts.
-- Reduced hours of administrative scheduling work.
-
-### 📦 Funky Buddha Inventory Management System
-
-**Python • Flask • PostgreSQL • SQLAlchemy • Nginx • Linux**
-
-Designed, developed, and deployed a production inventory management application to address merchandise tracking challenges at Funky Buddha Brewery.
-
-- Centralized stock visibility across multiple locations.
-- Replaced paper and whiteboard inventory tracking.
-- Reduced monthly inventory reconciliation from **3–4 hours to minutes**.
-- Improved operational efficiency and reduced unnecessary inventory checks.
-
----
 
 <!-- Tech Stack -->
 <h3 align="center">🛠️ Languages, Tools & Technologies</h3>
